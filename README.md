@@ -25,3 +25,5 @@ define('URL_BASE', 'URL DO PROJETO');
 
 No arquivo contato.sql que se encontra no diretório SQL você encontrará o script
 para gera a tabela contato.
+
+Obs: Não cadastra a imagem
