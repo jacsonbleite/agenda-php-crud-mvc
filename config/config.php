@@ -1,9 +1,9 @@
 <?php
 
 define("SERVIDOR", "localhost");
-define("BANCO", "metodoagora_agenda");
-define("USUARIO", "root");
-define("SENHA", "J@badmin123");
+define("BANCO", "BANCO");
+define("USUARIO", "USUARIO_BANCO");
+define("SENHA", "SENHA_BANCO");
 
 
 define('CONTROLLER_PADRAO', 'home');
